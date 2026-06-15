@@ -1,0 +1,9 @@
+[project]
+name = "containerize-app"
+version = "0.1.0"
+description = "A containerized Flask web server"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "flask>=3.1.3",
+]
